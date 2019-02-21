@@ -60,6 +60,9 @@
   background-position: center center;
 }
 
+#user-photo{
+  background-color: #fff;
+}
 
 #btn1{
   background-color: #D3BEAB;
@@ -147,6 +150,8 @@
   font-size: 60px;
   text-align: center;
   color: #977849;
+  height: 70px;
+  padding-top: 40px;
 }
 
 #venue{
